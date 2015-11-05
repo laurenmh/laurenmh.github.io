@@ -324,7 +324,7 @@ footer a:hover {
 .form_settings input, .form_settings textarea { 
   padding: 5px; 
   width: 299px; 
-  font: 100% arial; 
+  font: 50% arial; 
   border: 1px solid #D5D5D5; 
   background: #FFF; 
   color: #47433F;
@@ -334,7 +334,7 @@ footer a:hover {
 }
   
 .form_settings .submit { 
-  font: 140% 'Yanone Kaffeesatz', arial, sans-serif; 
+  font: 100% 'Yanone Kaffeesatz', arial, sans-serif; 
   border: 0; 
   width: 99px; 
   margin: 0 0 0 212px; 
